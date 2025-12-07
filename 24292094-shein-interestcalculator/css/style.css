@@ -1,0 +1,17 @@
+
+/* Yannaung Shein
+24292094 */
+
+
+h1 {
+    font-size:bold ;
+    Color: rgb(119, 121, 243);
+    text-shadow: 1px black;
+
+}
+
+button {
+    background-color: rgb(96, 96, 231);
+    color: white;
+    border-radius: 10px;
+}
